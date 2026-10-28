@@ -1,4 +1,4 @@
-# IMovies — Cinema Management & Multiplex Ticketing Engine
+# IMovies — Cinema Management & Multiplex Ticketing Engine ( live demo link https://i-movies-2.vercel.app )
 
 [![React](https://img.shields.io/badge/React-19.0-61dafb?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7+-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
